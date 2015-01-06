@@ -1,0 +1,2 @@
+{{$NEXT}}
+    - Initial implementation, includes is_uuid
