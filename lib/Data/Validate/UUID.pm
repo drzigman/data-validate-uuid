@@ -55,6 +55,8 @@ is_uuid accepts a scalar and returns a truthy or falsey value based on if the pr
 
 =head1 ACKNOWLEDGEMENTS
 
+The Regular Expression used in this module comes from I<DrEinsteinium> on the Bukkit forums.  L<This|http://bukkit.org/threads/best-way-to-check-if-a-string-is-a-uuid.258625/> is a link to the thread.  I've also seen this Regular Expression posted by I<Gambol> in L<this|http://stackoverflow.com/questions/7905929/how-to-test-valid-uuid-guid> stack overflow answer.  Hopefully they don't mind me packaging it up for distrubtion.
+
 Special thanks to L<BrainStorm Incubator|http://brainstormincubator.com> for providing development resources and allowing this module to be open soruced.
 
 =head1 AUTHORS
